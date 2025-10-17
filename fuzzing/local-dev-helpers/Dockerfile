@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 # Use the same Python version as OSS-Fuzz to accidental incompatibilities in test code
-FROM python:3.14.0-bookworm
+FROM python:3.15-rc-slim-trixie
 
 LABEL project="GitPython Fuzzing Local Dev Helper"
 
