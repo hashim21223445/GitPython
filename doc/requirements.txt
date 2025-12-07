@@ -7,5 +7,5 @@ sphinxcontrib-qthelp == 1.0.3
 sphinxcontrib-serializinghtml == 1.1.5
 sphinx-autodoc-typehints
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
-urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
 requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
